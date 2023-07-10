@@ -10,3 +10,6 @@ $ pip install gTTS
 ```
 <br>
 <br>
+
+![Screenshot_1](https://github.com/DarkSaibot/TextToAudioConverter/assets/86971123/e51c6d42-ccd0-496d-8805-b59e84edd399)
+
